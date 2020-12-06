@@ -1,0 +1,79 @@
+.heading{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 25px;
+    text-align: center;
+    color: #76b900;
+    /* padding-left: 50%;
+    padding-right: 50%;
+    padding-top: 10px;*/
+  
+}
+.picture{
+   /* padding: 3px;
+    border: 3px solid #76b900 ;*/
+    display: inline;
+    float: right;
+    margin-left: 20px;
+}
+.div-text{
+
+    border: 3px solid #76b900;
+    display:inline-block;
+    float:left;
+    margin-left: 5%;margin-top: 3%;
+    width: 40%; height: 30%;
+    color:#F8F8FF ; background-color: #1A1918;
+    
+}
+.text{
+    font-family: Arial, Helvetica, sans-serif;
+    border-style: solid;
+    border:#76b900 ;
+    padding: 5%;
+}
+.div-image1{
+    margin-top: 3%; margin-left: 55% ;margin-right: 5% ;
+    width: 40%; height: 30%;
+
+}
+.container{
+    margin-top: 5%;
+    margin-left: 5%;
+    width: 90%;height: 40%;
+   /* background-color:#231F20;*/
+    display: flex;
+}
+.div-images3{
+    
+    /*background-color: red;*/
+    border: 3px double  #231F20;
+    width: 33%;height: 100%;
+    margin-right: 5%;
+
+}
+.largeText-div{
+
+    font-family: Arial, Helvetica, sans-serif;
+    border:3px solid #76b900;
+    background-color: #1A1918;
+    color: #F8F8FF;
+}
+.div-images4{
+   /* margin-top: 2%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    /*margin-bottom: 2%;*/
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 30px;
+    width: 25%;
+    height: 90%;
+    background-color:#231F20 ;
+}
+.featured-heading{
+
+    margin-left: 5%;
+    color:#F8F8FF;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 3%;
+}
